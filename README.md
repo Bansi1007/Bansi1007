@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Bansi👋
+### I'm a Full Stack Developer, Computer Engineer and Meticulous.
 
-<!--
-**Bansi1007/Bansi1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- 😄 Pronouns: She/Her
 
-Here are some ideas to get you started:
+### Language and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,angular,php,java,git,postman,vscode,mysql=dark)](https://skills.thijs.gg)
+
+
+
+
+
+
+
+
+
