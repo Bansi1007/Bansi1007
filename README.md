@@ -7,7 +7,7 @@
 
 ### Language and Tools:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,angular,php,java,git,postman,vscode,mysql=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,angular,php,java,git,postman,vscode,mysql,=dark)](https://skills.thijs.gg)
 
 
 
