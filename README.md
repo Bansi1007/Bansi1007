@@ -9,8 +9,13 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,angular,php,java,git,postman,vscode,mysql,=dark)](https://skills.thijs.gg)
 
+### Where to find me:
 
 
+
+
+[![GitHub Profile](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github)](https://github.com/Bansi1007)
+[![LinkedIn Profile](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=linkedin)]([https://github.com/Bansi1007](https://www.linkedin.com/in/bansi-vaghasiya/)https://www.linkedin.com/in/bansi-vaghasiya/)
 
 
 
