@@ -1,3 +1,6 @@
+
+<img src="https://github.com/Bansi1007/Bansi1007/assets/113050119/fc35b359-34b2-48c4-8b1c-4ded0040a592" alt="Blue White Futuristic Technology Facebook Cover" width="1000" height="350">
+
 ### Hi there, I'm Bansi👋
 ### I'm a Full Stack Developer, Computer Engineer and Meticulous.
 
